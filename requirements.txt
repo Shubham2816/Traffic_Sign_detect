@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+ultralytics
+numpy
+Pillow
+torch
+supervision
+./venv/Scripts/activate
+(venv) (base) PS C:\Users\HP\Downloads\traffic k liet\traffic_sign_detection> streamlit run app.py
